@@ -1,0 +1,13 @@
+SOURCES += $${PWD}/nSceneBox.cpp
+SOURCES += $${PWD}/nSceneNode.cpp
+SOURCES += $${PWD}/nSceneSegment.cpp
+SOURCES += $${PWD}/nSceneFace.cpp
+SOURCES += $${PWD}/nSceneObject.cpp
+SOURCES += $${PWD}/nSceneTexture.cpp
+SOURCES += $${PWD}/nSceneCone.cpp
+SOURCES += $${PWD}/nSceneLinear.cpp
+SOURCES += $${PWD}/nSceneGenerators.cpp
+SOURCES += $${PWD}/nSceneDestructor.cpp
+SOURCES += $${PWD}/nLight.cpp
+SOURCES += $${PWD}/nCamera.cpp
+SOURCES += $${PWD}/nBookcase.cpp

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QtHelpProject version="1.0">
+    <namespace>com.neutrino.qtworld</namespace>
+    <virtualFolder>QtWorld</virtualFolder>
+    <customFilter name="CIOS World 1.6.0">
+        <filterAttribute>CIOS World</filterAttribute>
+        <filterAttribute>1.6.0</filterAttribute>
+    </customFilter>
+    <filterSection>
+        <filterAttribute>CIOS World</filterAttribute>
+        <filterAttribute>1.6.0</filterAttribute>
+        <toc>
+            <section title="CIOS World Manual" ref="index.html">
+                <section title="English" ref="en/index.html"/>
+                <section title="Traditional Chinese" ref="tw/index.html"/>
+                <section title="Simplified Chinese" ref="cn/index.html"/>
+            </section>
+        </toc>
+        <keywords>
+            <keyword name="World" id="CIOS::World" ref="index.html"/>
+            <keyword name="SceneBox （正體中文）" id="CIOS::SceneBox::TW" ref="tw/SceneBox.html"/>
+            <keyword name="SceneNode （正體中文）" id="CIOS::SceneNode::TW" ref="tw/SceneNode.html"/>
+            <keyword name="SceneDestructor （正體中文）" id="CIOS::SceneDestructor::TW" ref="tw/SceneDestructor.html"/>
+            <keyword name="Camera （正體中文）" id="CIOS::Camera::TW" ref="tw/Camera.html"/>
+            <keyword name="Light （正體中文）" id="CIOS::Light::TW" ref="tw/Light.html"/>
+            <keyword name="SceneTexture （正體中文）" id="CIOS::SceneTexture::TW" ref="tw/SceneTexture.html"/>
+            <keyword name="SceneSegment （正體中文）" id="CIOS::SceneSegment::TW" ref="tw/SceneSegment.html"/>
+            <keyword name="SceneFace （正體中文）" id="CIOS::SceneFace::TW" ref="tw/SceneFace.html"/>
+            <keyword name="SceneObject （正體中文）" id="CIOS::SceneObject::TW" ref="tw/SceneObject.html"/>
+            <keyword name="SceneCone （正體中文）" id="CIOS::SceneCone::TW" ref="tw/SceneCone.html"/>
+            <keyword name="SceneLinear （正體中文）" id="CIOS::SceneLinear::TW" ref="tw/SceneLinear.html"/>
+            <keyword name="Bookcase （正體中文）" id="CIOS::Bookcase::TW" ref="tw/Bookcase.html"/>
+            <keyword name="Universe （正體中文）" id="CIOS::Universe::TW" ref="tw/Universe.html"/>
+            <keyword name="FlatUniverse （正體中文）" id="CIOS::FlatUniverse::TW" ref="tw/FlatUniverse.html"/>
+            <keyword name="SpinnerUniverse （正體中文）" id="CIOS::SpinnerUniverse::TW" ref="tw/SpinnerUniverse.html"/>
+            <keyword name="RasterUniverse （正體中文）" id="CIOS::RasterUniverse::TW" ref="tw/RasterUniverse.html"/>
+            <keyword name="PathRunner （正體中文）" id="CIOS::PathRunner::TW" ref="tw/PathRunner.html"/>
+            <keyword name="LinearRunner （正體中文）" id="CIOS::LinearRunner::TW" ref="tw/LinearRunner.html"/>
+            <keyword name="RotateRunner （正體中文）" id="CIOS::RotateRunner::TW" ref="tw/RotateRunner.html"/>
+            <keyword name="ScaleRunner （正體中文）" id="CIOS::ScaleRunner::TW" ref="tw/ScaleRunner.html"/>
+            <keyword name="ShockRunner （正體中文）" id="CIOS::ShockRunner::TW" ref="tw/ShockRunner.html"/>
+        </keywords>
+        <files>
+            <file>*.css</file>
+            <file>*.html</file>
+            <file>images/*</file>
+            <file>tw/*</file>
+            <file>en/*</file>
+            <file>cn/*</file>
+        </files>
+    </filterSection>
+</QtHelpProject>
